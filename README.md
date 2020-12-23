@@ -7,4 +7,4 @@ This project aims to create a simple Google Sign in
 - Home screen shows the users signed in and registered in the API
 - Logout behavior from home
 
-[Preview Gif](../ReadmeImages/preview.gif)
+[Preview Gif](ReadmeImages/preview.gif)
